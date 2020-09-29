@@ -1,16 +1,12 @@
-# todoey_flutter
+# Todoey ✓
 
-A new Flutter application.
+## Goal
 
-## Getting Started
+A simple mobile application developed with Flutter. It represents a todolist app to keep track of all your tasks.
 
-This project is a starting point for a Flutter application.
+![Application view](https://github.com/vladhondru25/todoey/blob/master/Screenshot.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Reference
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
